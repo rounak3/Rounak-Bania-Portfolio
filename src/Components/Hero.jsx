@@ -29,7 +29,7 @@ const Hero = () => {
       />
 
       {/* Hero Heading */}
-      <h1 className="text-center w-full sm:w-[90%] lg:w-[60%] text-3xl sm:text-5xl lg:text-[90px] font-bold">
+      <h1 className="text-center w-full sm:w-[90%] lg:w-[60%] text-[40px] sm:text-6xl lg:text-[90px] font-bold">
         <span className="bg-gradient-to-r from-orange-500 via-purple-600 to-purple-700 bg-clip-text text-transparent">
           I'm Rounak Bania,
         </span>
