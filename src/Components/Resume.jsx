@@ -27,7 +27,7 @@ const Resume = () => {
       </h1>
       <div className="flex flex-wrap justify-center gap-6 md:gap-10">
         <button
-          onClick={() => downloadAndOpenPDF('/Rounak_Bania-VAPT_CV.pdf')}
+          onClick={() => downloadAndOpenPDF('/Rounak-Bania-VAPT_CV.pdf')}
           className="min-w-[280px] px-6 py-3 text-base md:text-lg font-medium rounded-md border-2 border-purple-500 text-purple-500 hover:bg-purple-500 hover:text-white transition duration-300 whitespace-nowrap"
         >
           Penetration Tester || VAPT
